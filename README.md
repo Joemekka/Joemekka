@@ -10,7 +10,7 @@
   <a href="https://emmanueljoe.systeme.io/portfolio1" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/emmanuel-joseph-31b333303" target="_blank">
+  <a href="https://www.linkedin.com/in/emmanuel-joseph-0146a9261?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:emmanueljoseph.dev@gmail.com">
@@ -57,19 +57,19 @@ Here are some exciting projects I’m building and planning:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanueljoe-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueljoe-dev&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Joemekka&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joemekka&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanueljoe-dev&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" alt="Emmanuel's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joemekka&theme=react-dark&bg_color=0D1117&hide_border=true" width="95%" alt="Emmanuel's GitHub Activity Graph"/>
 </p>
 
 ---
 
 <!-- VISITOR COUNTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emmanueljoe-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Joemekka&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views Counter"/>
 </p>
 
 ---
@@ -83,9 +83,9 @@ Here are some exciting projects I’m building and planning:
 <!-- CONTACT -->
 ## 📫 Let’s Connect  
 - 🌍 Portfolio: [emmanueljoe.systeme.io/portfolio1](https://emmanueljoe.systeme.io/portfolio1)  
-- 💼 LinkedIn: [Emmanuel Joseph](https://www.linkedin.com/in/emmanuel-joseph-31b333303)  
+- 💼 LinkedIn: [Emmanuel Joseph](https://www.linkedin.com/in/emmanuel-joseph-0146a9261?)  
 - 📧 Email: [emmanueljoseph.dev@gmail.com](mailto:emmanueljoseph.dev@gmail.com)  
 
 ---
 
-⭐️ From [Emmanuel Joseph](https://github.com/emmanueljoe-dev)
+⭐️ From [Emmanuel Joseph](https://github.com/Joemekka)
