@@ -34,7 +34,7 @@ Here are some exciting projects I’m building and planning:
 🔹 [**Airbnb Clone**](#) – A full-stack booking platform with authentication & search  
 🔹 [**Weather App**](#) – Real-time weather forecasting using API integration  
 🔹 [**Bankist**](#) – A secure payment & transaction tracking app  
-🔹 [**Forkify**](#) – A scalable recipe instructions web app
+🔹 [**Forkify**](#) – A scalable recipe instructions web app <br>
 🔹 [**SaaS Legacy Platform (bETERNAL)**](https://beternal.life) – A digital legacy solution for file storage, sharing, and memory preservation  
 
 ---
