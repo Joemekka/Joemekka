@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/emmanuel-joseph-0146a9261?" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:emmanueljoseph.dev@gmail.com">
+  <a href="mailto:emmanueljoemekka.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ Here are some exciting projects I’m building and planning:
 ## 📫 Let’s Connect  
 - 🌍 Portfolio: [emmanueljoseph.xyz](https://www.emmanueljoseph.xyz)  
 - 💼 LinkedIn: [Emmanuel Joseph](https://www.linkedin.com/in/emmanuel-joseph-0146a9261?)  
-- 📧 Email: [emmanueljoseph.dev@gmail.com](mailto:emmanueljoseph.dev@gmail.com)  
+- 📧 Email: [emmanueljoseph.dev@gmail.com](mailto:emmanueljoemekka.dev@gmail.com)  
 
 ---
 
