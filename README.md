@@ -1,13 +1,10 @@
 <!-- BANNER -->
-<p align="center">
-  <img src="https://i.postimg.cc/3xT7gN2q/github-banner-emmanuel.png" alt="Emmanuel Joseph - Frontend Developer" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Emmanuel Joseph</h1>
 <h3 align="center">Front-End Developer | Aspiring Full-Stack & Mobile App Developer</h3>
 
 <p align="center">
-  <a href="https://emmanueljoe.systeme.io/portfolio1" target="_blank">
+  <a href="https://emmanueljoseph.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/emmanuel-joseph-0146a9261?" target="_blank">
@@ -82,7 +79,7 @@ Here are some exciting projects I’m building and planning:
 
 <!-- CONTACT -->
 ## 📫 Let’s Connect  
-- 🌍 Portfolio: [emmanueljoe.systeme.io/portfolio1](https://emmanueljoe.systeme.io/portfolio1)  
+- 🌍 Portfolio: [emmanueljoseph.xyz](https://emmanueljoseph.xyz)  
 - 💼 LinkedIn: [Emmanuel Joseph](https://www.linkedin.com/in/emmanuel-joseph-0146a9261?)  
 - 📧 Email: [emmanueljoseph.dev@gmail.com](mailto:emmanueljoseph.dev@gmail.com)  
 
