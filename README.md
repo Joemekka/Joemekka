@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Joseph</h1>
-<h3 align="center">Aspiring Full-Stack & Mobile Developer</h3>
+<h3 align="center">Aspiring Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
   <a href="https://www.emmanueljoseph.xyz" target="_blank">
@@ -31,6 +31,7 @@
 ## 🎯 Projects & Goals  
 Here are some exciting projects I’m building and planning:  
 
+🔹 [**Shop24**](#) – Front End e-commerce web platform 
 🔹 [**Airbnb Clone**](#) – A full-stack booking platform with authentication & search  
 🔹 [**Weather App**](#) – Real-time weather forecasting using API integration  
 🔹 [**Bankist**](#) – A secure payment & transaction tracking app  
