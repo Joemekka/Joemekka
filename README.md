@@ -31,8 +31,8 @@
 ## 🎯 Projects & Goals  
 Here are some exciting projects I’m building and planning:  
 
-🔹 [**Shop24**](#) – Front End e-commerce web platform 
-🔹 [**Airbnb Clone**](#) – A full-stack booking platform with authentication & search  
+🔹 <a href="https://alx-project-nexus-nine-psi.vercel.app"> [**Shop24**](#) – Front End e-commerce web platform 
+🔹 [**Airbnb Clone**](#)</a> – A full-stack booking platform with authentication & search  
 🔹 [**Weather App**](#) – Real-time weather forecasting using API integration  
 🔹 [**Bankist**](#) – A secure payment & transaction tracking app  
 🔹 [**Forkify**](#) – A scalable recipe instructions web app <br>
