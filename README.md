@@ -1,7 +1,7 @@
 <!-- BANNER -->
 
 <h1 align="center">Hi 👋, I'm Emmanuel Joseph</h1>
-<h3 align="center">Aspiring Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">Aspiring Full-Stack MERN Stack Engineer</h3>
 
 <p align="center">
   <a href="https://www.emmanueljoseph.xyz" target="_blank">
