@@ -19,7 +19,7 @@
 
 <!-- ABOUT ME -->
 ## 🚀 About Me  
-- 🎓 Currently learning **Front-End Development @ ALX Pro**  
+- 🎓 **Full Stack Development**  
 - 💡 Passionate about **transforming ideas into real-world solutions through code**  
 - 🌱 Growing into **Full Stack Development & Cross-Platform Mobile Apps (React Native & Flutter)**  
 - 💼 Open to **internships, junior developer roles & collaborations**  
